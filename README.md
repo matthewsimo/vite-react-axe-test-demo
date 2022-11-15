@@ -4,10 +4,10 @@ This is a bare-bones demo repo used in a Rightpoint FED Roundtable presentation.
 
 Files worth reviewing:
 
-- `./vitest-setup.js`
-- `./vite.config.js`
-- `./src/App.jsx`
-- `./src/App.test.jsx`
+- [`./vitest-setup.js`](vitest-setup.js)
+- [`./vite.config.js`](vite.config.js)
+- [`./src/App.jsx`](src/App.jsx)
+- [`./src/App.test.jsx`](src/App.test.jsx)
 
 ---
 
